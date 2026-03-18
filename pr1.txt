@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>WPD-01_)PR1</title>
+</head>
+<body>
+<h1>MET BKC IOT Polytechnic</h1>
+<h2>Information technology</h2>
+<h3>WPD</h3>
+<h4>name: rajkanya mahale</h4>
+<h5>Roll no:62</h5>
+<h6>Practical 01 of batch 01</h6>
+</body>
+</html>
